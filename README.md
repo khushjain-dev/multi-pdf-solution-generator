@@ -218,15 +218,8 @@ multi-pdf-solution-generator
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
-│
 ├── faiss_index
-│
-├── assets
-│   ├── architecture.png
-│   └── demo.gif
-│
-└── screenshots
-    └── application-preview.png
+└── .env
 ```
 
 ---
@@ -296,16 +289,6 @@ The generated response is displayed in the application UI.
 - Docker Containerization
 - AWS Deployment
 - Azure Deployment
-
----
-
-## 📸 Application Preview
-
-Add screenshots here after deployment.
-
-```text
-screenshots/application-preview.png
-```
 
 ---
 
