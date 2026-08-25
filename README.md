@@ -219,7 +219,7 @@ multi-pdf-solution-generator
 ├── .gitignore
 ├── README.md
 ├── faiss_index
-└── .env
+└── .env.example
 ```
 
 ---
